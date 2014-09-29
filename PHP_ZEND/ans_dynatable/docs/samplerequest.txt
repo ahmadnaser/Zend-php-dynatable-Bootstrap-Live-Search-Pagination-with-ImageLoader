@@ -1,0 +1,1 @@
+http://localhost/ans_dynatable/public/index/index?queries%5Byear%5D=2011&sorts%5Bname%5D=1&page=1&perPage=15&offset=0
