@@ -2,19 +2,22 @@ Zend dynatable Bootstrap Live Search Pagination with ImageLoader
 ===========
 
 Included
-++++++++
-[1]:Zend Pagination Service on Index Controller with(sorting,parameters,like,order) 
-[2]:Ajax Paginatin for (sorting,parameters,like,order) 
-[3]:Dynatable supported
-[4]:Horzantal Dynatable
-[5]:Vertical Dynatable
-[6]:Bootstrap Examples
-[7]:Image Ajax Loading Example 
-[8]:Bootstrap Theme
-[9]:Bootstrap Assets
-[10]:DataBase is attach with its configuration
+------------
+==========================================================
+[1]: Zend Pagination Service on Index Controller with(sorting,parameters,like,order) 
+[2]: Ajax Paginatin for (sorting,parameters,like,order) 
+[3]: Dynatable supported
+[4]: Horzantal Dynatable
+[5]: Vertical Dynatable
+[6]: Bootstrap Examples
+[7]: Image Ajax Loading Example 
+[8]: Bootstrap Theme
+[9]: Bootstrap Assets
+[10]: DataBase is attach with its configuration
 
 Defaults
+------------
+==========================================================
 http://localhost/ans_dynatable/public/index/index?sorts%5Bprice%5D=-1&page=1&perPage=5&offset=0
 [5]:Vertical Dynatable
 
